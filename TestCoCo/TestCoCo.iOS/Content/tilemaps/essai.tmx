@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="left-up" width="8" height="12" tilewidth="20" tileheight="20" nextobjectid="1">
+ <tileset firstgid="1" name="Swamp" tilewidth="20" tileheight="20" tilecount="45">
+  <image source="Swamp.bmp" width="101" height="181"/>
+ </tileset>
+ <layer name="Calque de Tile 1" width="30" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzjZWBg4B3FA4YBs20E4Q==
+  </data>
+ </layer>
+</map>
